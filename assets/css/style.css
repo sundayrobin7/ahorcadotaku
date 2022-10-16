@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+h2{
+    color: #ffffff;
+}
+
+#resultado {
+    color: #ffffff;
+}
+
+#intentos {
+    color: #ffffff;
+}
+
+#tablero-derecho {
+    width: 25%;
+    background-image: url("../images/deathnote.jpg");
+    background-size: cover;
+    position:absolute;
+    height: 100%;
+    padding: 10px;
+    right: 0px;
+  }
